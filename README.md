@@ -6,8 +6,6 @@
 
 **Technical Director [@Unlikely](https://unlikely.technology/)** commerce Shopify, headless & template.
 
-<sub>Liquid quand ça suffit, Next.js quand ça compte.</sub>
-
 <br/>
 
 <a href="https://unlikely.technology/">
