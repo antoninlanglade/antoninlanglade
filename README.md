@@ -14,7 +14,7 @@
 <a href="mailto:antonin.langlade@gmail.com">
   <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://twitter.com/antoninlanglade">
+<a href="https://x.com/pigeondm">
   <img src="https://img.shields.io/badge/Twitter-111111?style=flat-square&logo=x&logoColor=white" alt="Twitter" />
 </a>
 
