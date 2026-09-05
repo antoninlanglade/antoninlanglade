@@ -4,7 +4,7 @@
 
 # Antonin Langlade
 
-**Technical Director [@Unlikely](https://unlikely.technology/)** — commerce Shopify, headless & template.
+**Technical Director [@Unlikely](https://unlikely.technology/)** commerce Shopify, headless & template.
 
 <sub>Liquid quand ça suffit, Next.js quand ça compte.</sub>
 
